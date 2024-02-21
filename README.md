@@ -1,6 +1,6 @@
 # Team Management Application
 
-A team management application built using React, Tailwind CSS, Node.js, Express.js, GraphQL, and MongoDB. The application aims to optimize collaboration and workflow within a team project. As the team leader, you can create project teams and add team members. Each team member can add their work tasks and update the status of their tasks. All data is stored and managed in MongoDB.
+A team management application built using React, Tailwind CSS, Node.js, Express.js, GraphQL, and MongoDB. The aim of the application is to optimize collaboration and workflow within a team project. As the team leader, you can create project teams and add team members. Each team member can add their work tasks and update the status of their tasks. All data is stored and managed in MongoDB.
 
 ## Demo
 
@@ -22,8 +22,6 @@ A demo of the working application can be accessed [here](https://drive.google.co
 - **Express.js:** A web application framework for building robust and scalable server-side applications.
 - **GraphQL:** A query language for APIs that provides a flexible and efficient approach to data fetching and manipulation.
 - **MongoDB:** A NoSQL database for storing and managing data in a flexible and scalable manner.
-
-
 
 ## About
 
